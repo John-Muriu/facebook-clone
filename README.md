@@ -1,3 +1,2 @@
-# facebook-clone.
-This is a static page, 
-usued html css and abit of javascript
+Design Facebook Using HTML, CSS and JavaScript Code
+
